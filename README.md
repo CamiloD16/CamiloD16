@@ -4,7 +4,7 @@
 <p>I am 23 years old, always want to learn, I never want to stop doing it, and I never give up, that is what characterizes me.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CamiloD17&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
 - 📚 I'm in the last semester of electronic engineering
 - 🌎 I'm from Colombia
