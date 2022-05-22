@@ -1,7 +1,7 @@
 
 <h3 align="center"> Hi there 👋, I am Camilo Hernández</h3>
 <h4 align="center">I'm software developer</h4>
-<p>I am an electronic engineering student at last semester of the University of Magdalena, I have a good capacity for learning, adaptation, logic and work in team</p>
+<p>I'm an electronic engineering student at last semester of the University of Magdalena, I have a good capacity for learning, adaptation, logic and work in team</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CamiloD17&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
