@@ -25,6 +25,3 @@
 <img src="https://img.icons8.com/color/344/power-bi.png" alt="power-bi" width="40" height="40"/>  </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloD17)](https://github.com/anuraghazra/github-readme-stats)
-
-
