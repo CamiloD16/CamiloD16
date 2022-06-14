@@ -7,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CamiloD17&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
 - 🌎 I'm from Colombia
+- 💻 Electronic Engineer
+- 📚 Autodidact
+
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
@@ -21,6 +24,5 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/344/maria-db.png" alt="maria-db" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vsc" width="40" height="40"/>
-<img src="https://img.icons8.com/color/344/power-bi.png" alt="power-bi" width="40" height="40"/>  </p>
 
 
