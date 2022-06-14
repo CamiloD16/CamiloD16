@@ -1,6 +1,6 @@
 
 <h3 align="center"> Hi there 👋, I am Camilo Hernández</h3>
-<h4 align="center">I'm software developer</h4>
+<h4 align="center">I'm software developer and electronic engineer</h4>
 <p>I'm an electronic engineering student at last semester of the University of Magdalena, I have a good capacity for learning, adaptation, logic and work in team</p>
 
 
