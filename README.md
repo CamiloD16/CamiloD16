@@ -21,7 +21,6 @@
 <img src="https://cdn.svgporn.com/logos/flask.svg" alt="flask" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/344/maria-db.png" alt="maria-db" width="40" height="40"/> 
 
 
