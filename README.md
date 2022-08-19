@@ -4,4 +4,4 @@
 - 💻 Electronic Engineer
 - 📚 Autodidact
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnaquira&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloD17&layout=compact)
