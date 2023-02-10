@@ -1,8 +1,8 @@
 ### Junior developer with knowledge in full stack development tools, I have been contributing in different projects where I used the following technologies:
 
-- FrontEnd: ReactJs, JavaScript, Tailwind, Bootstrap, Sass, Css y Html.
-- BackEnd: Django, Python y MariaDB.
-- Others: Drupal, Figma y Git.
+- FrontEnd: ReactJs, JavaScript, Tailwind, Bootstrap, Sass, Css y Html
+- BackEnd: Drupal, Python, MySQL y MariaDB
+- Others: Git, Figma y APIsREST.
 
 ### Projects:
 
