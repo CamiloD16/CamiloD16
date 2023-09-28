@@ -6,13 +6,14 @@
 
 
 **[UT Medical Center](https://www.utmedicalcenter.org/)**
-- Creation of custom content, optimizing information presentation, and improving the administrator's experience in the back office.
-- Development of custom blocks using paragraphs, allowing for more efficient and personalized content creation.
-- View management to display information tailored to users.
-- Creation of custom forms to optimize the use of information in the administration interface.
+- Layout of components for custom themes using Sass and TailwindCSS to enhance website functionality and appearance.
+- Close collaboration with the design team to ensure a high-quality user experience.
+- Creation of custom templates in Twig.
 - Integration with Docksal for container management.
 - Version control management using Git.
-_Drupal 9, Composer, Docksal, Twig, TailwindCSS, Sass, Git_
+
+> Drupal 9, Composer, Docksal, Twig, TailwindCSS, Sass, Git
+
 ***
 **[Magma Ingeniería](https://magma-ingenieria.vercel.app/)**
 - Development and consumption of REST APIs using Django and ReactJS.
@@ -22,4 +23,5 @@ _Drupal 9, Composer, Docksal, Twig, TailwindCSS, Sass, Git_
 - Version control management through Git.
 - Creation of components in ReactJS.
 - Implementation of a user authentication system using JSON Web Token (JWT).
-_ReactJS, Django, Python, JWT, MySQL, Sass, Git_
+  
+> ReactJS, Django, Python, JWT, MySQL, Sass, Git
