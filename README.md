@@ -1,23 +1,26 @@
-### Junior developer with knowledge in full stack development tools, I have been contributing in different projects where I used the following technologies:
+#### Junior developer with skills in full stack development technologies.
 
-- FrontEnd: ReactJs, JavaScript, Tailwind, Bootstrap, Sass, Css y Html
-- BackEnd: Drupal, Python, MySQL y MariaDB
-- Others: Git, Figma y APIsREST.
+- FrontEnd: ReactJs, JavaScript, TailwindCSS, Bootstrap, Sass, Css y Html.
+- BackEnd: Django, Python, Drupal, MariaDB.
+- Others: Git, Figma y Linux.
 
-### Projects:
+#### Projects
 
-**UT Medical Center** : https://www.utmedicalcenter.org/
-- I built components for custom themes using Sass and
-TailwindCSS improving the appearance of the website.
-- Worked closely with the design team to ensure
-a high-quality user experience
-###### Tools: (Drupal 7-9, Tailwind, Sass, Composer, Docksal)
+**[UT Medical Center](https://www.utmedicalcenter.org/)**
+- Creation of custom content, optimizing information presentation, and improving the administrator's experience in the back office.
+- Development of custom blocks using paragraphs, allowing for more efficient and personalized content creation.
+- View management to display information tailored to users.
+- Creation of custom forms to optimize the use of information in the administration interface.
+- Integration with Docksal for container management.
+- Version control management using Git.
+###### _Drupal 9, Composer, Docksal, Twig, TailwindCSS, Sass, Git_
 ***
-**Magma Ingeniería** : https://magma-preview.netlify.app/
-- I contributed to the creation of an interactive web platform for students and members of
-a research group using ReactJS.
-- Worked collaboratively with the design team to ensure implementation
-of the designs in the application.
-- I was in charge of fixing bugs and making improvements in the functionality and the
-application performance
-###### Tools: (ReactJS, MySQL, Sass)
+**[Magma Ingeniería](https://magma-ingenieria.vercel.app/)**
+- Development and consumption of REST APIs using Django and ReactJS.
+- Database management using MariaDB.
+- Development of custom forms.
+- Code optimization for a web application.
+- Version control management through Git.
+- Creation of components in ReactJS.
+- Implementation of a user authentication system using JSON Web Token (JWT).
+###### _ReactJS, Django, Python, JWT, MySQL, Sass, Git_
