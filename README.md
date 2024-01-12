@@ -1,4 +1,4 @@
-### Junior developer with skills in full stack development technologies.
+### Electronic Engineer with skills in full stack development technologies.
 
 - FrontEnd: ReactJs, JavaScript, TailwindCSS, Bootstrap, Sass, Css y Html.
 - BackEnd: Django, Python, Drupal, MariaDB.
@@ -13,6 +13,16 @@
 - Version control management using Git.
 
 > Drupal 9, Composer, Docksal, Twig, TailwindCSS, Sass, Git
+
+
+**[Principal CL](https://www.principal.cl/)**
+- Implemented dynamic and customizable blocks through the use of paragraphs, enhancing the flexibility of content presentation on the website.
+- Engineered custom features to streamline and optimize the content creation process.
+- Conducted thorough testing and debugging to ensure the stability and reliability of the custom features and blocks.
+- Integration with Lando for container management.
+- Version control management using Git.
+
+> Drupal 9, Composer, Lando, Twig, Paragraphs, Git
 
 ***
 **[Magma Ingeniería](https://magma-ingenieria.vercel.app/)**
